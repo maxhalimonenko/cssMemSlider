@@ -31,3 +31,14 @@ h6 {
 	font-size: inherit;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+	background: url(./backgroud/background2.jpg) no-repeat center;
+	background-size: cover;
+	color:#fff;
+	font-size: 1.5rem;
+}
+
